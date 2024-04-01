@@ -18,6 +18,8 @@ RETURN @results;
 END $$
 DELIMITER ;
 
+
+
 SELECT formatTime(123456);
 
 -- Задача № 2.
